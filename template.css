@@ -7,11 +7,6 @@ body {
 }
 body {
     font-family: 'Aldrich';
-	}
-	   a {
-      text-decoration:none;
-       @font-face {
-  font-family: myFirstFont;
   src: url(https://fonts.googleapis.com/css?family=Aldrich);
 }
 

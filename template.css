@@ -1,0 +1,21 @@
+body {
+    background: red;
+    color: yellow;
+}
+}
+div.a {
+	text-align: center;
+}
+body {
+    font-family: 'Aldrich';
+	}
+	   a {
+      text-decoration:none;
+       @font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+div {
+  font-family: myFirstFont;
+}

@@ -2,13 +2,29 @@ body {
     background: red;
     color: yellow;
 }
-body {
 	text-align: center;
 }
-body {
     font-family: 'OCR A Std';
-}
 
-body {
-  font-family: myFirstFont;
-}
+header {  
+background-color: orange;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;
+font-family: 'OCR A Std';
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: blue;  
+text-decoration: none;  
+}  

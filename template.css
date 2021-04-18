@@ -4,7 +4,13 @@ body {
 	text-align: center;
 	font-family: "OCR A Std", monospace;
 }
-
+h1 {
+  display: block;
+  margin-top: 3em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+}
 header {  
 	background-color: blue;  
 	position: fixed;  
@@ -24,5 +30,5 @@ header li {
 }  
 header li a {  
 	color: yellow;  
-	text-decoration: none;  
+text-decoration: none;  
 }  

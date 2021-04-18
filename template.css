@@ -2,7 +2,7 @@ body {
     background: red;
     color: yellow;
 }
-div.a {
+body {
 	text-align: center;
 }
 body {
@@ -15,6 +15,6 @@ body {
   src: url(https://fonts.googleapis.com/css?family=Aldrich);
 }
 
-div {
+body {
   font-family: myFirstFont;
 }
